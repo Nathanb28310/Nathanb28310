@@ -3,7 +3,7 @@ Salut, moi c'est Nathan 👋<br><br>
 Étudiant en première année de Développement Web Fullstack à Coda (Orléans), je passe mon temps à apprendre en construisant des projets concrets comme des jeux vidéo indés <br><br>
 - 🔭 En ce moment : Développement de The Tower (un jeu de combat au tour par tour sous Godot 4)<br>
 - 🎯 Objectif : À la recherche d'une alternance en développement Fullstack à partir de septembre 2027 (3 semaines/1 semaine).<br>
-- 🎮 Côté Game Dev : Création de prototypes 2D/3D (Godot Engine / GDScript) publiés sur [itch.io]([https://itch.io](https://nathanb28310.itch.io)) et critique de jeux vidéo sur mon temps libre sur [Backloggd]([https://backloggd.com/u/NB_Games/]).
+- 🎮 Côté Game Dev : Création de prototypes 2D/3D (Godot Engine / GDScript) publiés sur [itch.io](https://nathanb28310.itch.io) et critique de jeux vidéo sur mon temps libre sur [Backloggd](https://backloggd.com/u/NB_Games/).
 
 
 ## 🌐 Socials :
